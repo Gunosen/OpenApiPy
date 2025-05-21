@@ -1,4 +1,4 @@
-# OpenApiPy
+ OpenApiPy
 
 
 [![PyPI version](https://badge.fury.io/py/ctrader-open-api.svg)](https://badge.fury.io/py/ctrader-open-api)
